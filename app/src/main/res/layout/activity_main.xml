@@ -56,7 +56,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
         android:background="@color/colorPrimary"
-        android:text="Click me"
+        android:text="Riwayat Pendidikan"
         android:textAllCaps="false"
 
         />
@@ -68,7 +68,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
         android:background="@color/colorPrimary"
-        android:text="Click me"
+        android:text="Organisasi"
         android:textAllCaps="false"
 
         />
@@ -79,7 +79,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
         android:background="@color/colorPrimary"
-        android:text="Click me"
+        android:text="Out"
         android:textAllCaps="false"
 
         />
