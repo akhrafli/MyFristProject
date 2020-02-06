@@ -8,11 +8,20 @@
     android:background="@color/"
     android:orientation="vertical">
 
+
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome in MyProfile"
+        android:layout_gravity="center_horizontal"
+        android:textSize="40dp"
+
+
     <ImageView
         android:id="@+id/img"
         android:layout_width="250dp"
         android:layout_height="250dp"
-        android:layout_marginBottom="50dp"
         android:src="@drawable/rafli"
         android:layout_gravity="center_horizontal"/>
 
@@ -20,9 +29,9 @@
         android:id="@+id/txt1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Muhamad Rafli"
+        android:text="Muhamad Rafli Abdillah"
         android:textColor="#357"
-        android:textSize="50sp"
+        android:textSize="30sp"
         android:layout_gravity="center_vertical|center"
 
         />
@@ -35,7 +44,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
         android:background="@color/colorPrimary"
-        android:text="Click me"
+        android:text="Profile"
         android:textAllCaps="false"
 
         />
